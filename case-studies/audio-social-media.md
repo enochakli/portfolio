@@ -10,8 +10,6 @@ permalink: /case-studies/audio-social-media/
 # User Experience Research for Audio-Based Social Media
 ## The Effects of an Audio-Based Modality on Social Media Experience
 
-**Full paper (PDF):** [Read the full report](../assets/audio-social/audio-social-media-paper.pdf)
-
 ---
 
 ## Overview
@@ -21,6 +19,8 @@ especially around appearance and perceived status so we investigated an audio-ba
 We designed an audio-based social media experience and evaluated it in a controlled within-subject study (n=12), comparing visual-only, audio-only, and hybrid (audio + visual) conditions. 
 We measured efficiency (time-on-task), anxiety-related outcomes (STAI), and post-task usability/experience ratings to understand where audio interaction helps, where it adds friction, and 
 what design requirements would make an audio-first feed viable.
+
+**Full paper (PDF):** [Read the full report](/portfolio/assets/audio-social/audio-social-media-paper.pdf)
 
 **Goal.** Design and evaluate an audio-based social media experience and test two core questions:
 
