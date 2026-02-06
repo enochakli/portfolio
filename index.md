@@ -11,8 +11,9 @@ title: ""
 
   <div class="cta">
     <a class="btn primary" href="#case-studies">View case studies</a>
-    <a <a class="btn" href="/portfolio/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-  Download paper (PDF)</a>
+    <a class="btn" href="/portfolio/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
+  Download paper (PDF)
+    </a>
     <a class="btn" href="mailto:aklienoch22@gmail.com">Email</a>
     <a class="btn" href="https://www.linkedin.com/in/enochakli/" target="_blank" rel="noopener">LinkedIn</a>
   </div>
