@@ -1,5 +1,4 @@
 
-## Welcome
 Human Factors • UX Research • HCI
 
 This site contains selected case studies that show how I run evaluations, analyze results, and translate findings into design recommendations.
