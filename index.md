@@ -44,7 +44,3 @@ title: ""
 </div>
 
 <hr/>
-
-<p class="contact">
-  Contact: <a href="mailto:aklienoch22@gmail.com">aklienoch22@gmail.com</a>
-</p>
