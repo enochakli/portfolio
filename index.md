@@ -6,7 +6,7 @@ title: ""
 <div class="hero">
   <h1>Enoch Akli</h1>
   <p class="tagline">
-    Human Factors • UX Research • HCI — I run evaluations, analyze results, and translate findings into design recommendations.
+    Human Factors • UX Research • HCI — I run usability studies(qual + quant), synthesize findings and produce stakeholder-ready recommendations.
   </p>
 
   <div class="cta">
