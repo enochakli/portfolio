@@ -23,12 +23,24 @@ title: ""
 
 <h2 id="case-studies">Case Studies</h2>
 
-<div class="card-grid">
-  <a class="card" href="case-studies/audio-social-media/">
-    <h3>User Experience Research for Audio-Based Social Media</h3>
-    <p>Within-subject UX/HF evaluation comparing visual-only, audio-only, and hybrid modalities.</p>
-    <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
-  </a>
+<div class="card">
+  <h3>
+    <a href="case-studies/audio-social-media/">User Experience Research for Audio-Based Social Media</a>
+  </h3>
+
+  <p>Within-subject UX/HF evaluation comparing visual-only, audio-only, and hybrid modalities.</p>
+  <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
+
+  <div class="card-actions">
+    <a class="btn" href="case-studies/audio-social-media/">Read case study</a>
+    <a class="btn" href="/portfolio/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
+      Read paper (PDF)
+    </a>
+  </div>
+</div>
+
+
+
 
  <div class="card">
   <h3>
@@ -42,6 +54,25 @@ title: ""
     <a class="btn" href="case-studies/nl-mongodb/">Read case study</a>
     <a class="btn" href="https://github.com/enochakli/natural-language-queries-to-mongodb" target="_blank" rel="noopener">
       GitHub Repo
+    </a>
+  </div>
+</div>
+
+
+
+
+<div class="card">
+  <h3>
+    <a href="case-studies/publications/">Publications (Selected)</a>
+  </h3>
+
+  <p>Poster publication + under-review submission with my contributions summarized.</p>
+  <span class="meta">ASSETS ’25 • CHI ’26 (under review)</span>
+
+  <div class="card-actions">
+    <a class="btn" href="case-studies/publications/">View publications</a>
+    <a class="btn" href="https://scholar.google.com/citations?hl=en&user=wByIxDAAAAAJ" target="_blank" rel="noopener">
+      Google Scholar
     </a>
   </div>
 </div>
