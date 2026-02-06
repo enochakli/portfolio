@@ -49,5 +49,9 @@
 .card p { margin: 0 0 10px; color: #333; }
 .meta { font-size: 0.9rem; color: #666; }
 
+/* ====== Card actions (buttons inside cards) ====== */
+.card-actions { margin-top: 12px; }
+.card .btn { padding: 8px 12px; border-radius: 10px; }
+
 /* ====== Small footer contact line ====== */
 .contact { margin-top: 6px; }
