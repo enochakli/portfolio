@@ -1,23 +1,48 @@
-
-Human Factors • UX Research • HCI
-
-This site contains selected case studies that show how I run evaluations, analyze results, and translate findings into design recommendations.
-
+---
+layout: home
+title: ""
 ---
 
-## Case Studies
-1. **User Experience Research for Audio-Based Social Media**  
-   Within-subject UX/HF evaluation comparing visual-only, audio-only, and hybrid modalities.  
-   → [Read case study](case-studies/audio-social-media.md)
+<div class="hero">
+  <h1>Enoch Akli</h1>
+  <p class="tagline">
+    Human Factors • UX Research • HCI — I run evaluations, analyze results, and translate findings into design recommendations.
+  </p>
 
-2. **Natural-Language Query Interface for NoSQL (NL → MongoDB)**  
-   End-to-end prototype translating user questions into MongoDB queries with transparency + recovery features.  
-   → [Read case study](case-studies/nl-mongodb.md)
+  <div class="cta">
+    <a class="btn primary" href="#case-studies">View case studies</a>
+    <a class="btn" href="assets/audio-social/audo-social-media-paper.pdf">Download paper (PDF)</a>
+    <a class="btn" href="mailto:aklienoch22@gmail.com">Email</a>
+    <a class="btn" href="https://www.linkedin.com/in/enochakli/" target="_blank" rel="noopener">LinkedIn</a>
+  </div>
+</div>
 
-3. **Publications (Selected)**  
-   Poster publication + under-review submission with my contributions summarized.  
-   → [View publications](case-studies/publications.md)
+<hr/>
 
----
+<h2 id="case-studies">Case Studies</h2>
 
-**Contact:** aklienoch22@gmail.com
+<div class="card-grid">
+  <a class="card" href="case-studies/audio-social-media/">
+    <h3>User Experience Research for Audio-Based Social Media</h3>
+    <p>Within-subject UX/HF evaluation comparing visual-only, audio-only, and hybrid modalities.</p>
+    <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
+  </a>
+
+  <a class="card" href="case-studies/nl-mongodb/">
+    <h3>Natural-Language Query Interface for NoSQL (NL → MongoDB)</h3>
+    <p>End-to-end prototype translating user questions into MongoDB queries with transparency + recovery features.</p>
+    <span class="meta">Focus: workflow • prototyping • usability</span>
+  </a>
+
+  <a class="card" href="case-studies/publications/">
+    <h3>Publications (Selected)</h3>
+    <p>Poster publication + under-review submission with my contributions summarized.</p>
+    <span class="meta">ASSETS ’25 • CHI ’26 (under review)</span>
+  </a>
+</div>
+
+<hr/>
+
+<p class="contact">
+  Contact: <a href="mailto:aklienoch22@gmail.com">aklienoch22@gmail.com</a>
+</p>
