@@ -1,4 +1,11 @@
-[← Back to Portfolio](../index.md)
+---
+layout: page
+title: User Experience Research for Audio-Based Social Media
+permalink: /case-studies/audio-social-media/
+---
+
+
+[← Back to Portfolio](/portfolio/)
 
 # User Experience Research for Audio-Based Social Media
 ## The Effects of an Audio-Based Modality on Social Media Experience
