@@ -1,4 +1,15 @@
-[← Back to Portfolio](../index.md)
+
+---
+layout: page
+title: Publications
+permalink: /case-studies/publications/
+---
+
+# Publications (Selected)
+
+...
+
+[← Back to Portfolio](/portfolio/)
 
 # Selected Publications
 
