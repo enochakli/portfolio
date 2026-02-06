@@ -15,6 +15,8 @@ We designed an audio-based social media experience and evaluated it in a control
 We measured efficiency (time-on-task), anxiety-related outcomes (STAI), and post-task usability/experience ratings to understand where audio interaction helps, where it adds friction, and 
 what design requirements would make an audio-first feed viable.
 
+**Full paper (PDF):** [Read the full report](assets/audio-social/audio-social-media-paper.pdf)
+
 **Goal.** Design and evaluate an audio-based social media experience and test two core questions:
 
 1. Does using an audio-based social media modality lead to less anxiety than a traditional visual modality?
