@@ -20,4 +20,4 @@ This site contains selected case studies that show how I run evaluations, analyz
 
 ---
 
-**Contact (optional):** [LinkedIn](https://www.linkedin.com/in/enochakli/) • aklienoch22@gmail.com
+**Contact (optional):** aklienoch22@gmail.com
