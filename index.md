@@ -16,8 +16,8 @@ This site contains selected case studies that show how I run evaluations, analyz
 
 3. **Publications (Selected)**  
    Poster publication + under-review submission with my contributions summarized.  
-   → [View publications](case-studies/publications.md)
+   → [View publications](case-studies/publications/)
 
 ---
 
-**Contact (optional):** aklienoch22@gmail.com
+**Contact:** aklienoch22@gmail.com
