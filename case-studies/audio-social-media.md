@@ -71,10 +71,6 @@ To answer this, we ran a within-subject lab study (n=12) comparing visual-only, 
 Recruitment email (redacted), study scripts/conditions, IRB-approved consent process (not shared publicly), slides and report.
 
 ---
-**Contact:** 
-aklienoch22@gmail.com
-
----
 
 *Last updated: 2026*
 
