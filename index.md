@@ -1,8 +1,8 @@
 
-# Enoch Akli — Portfolio
+## Welcome
 Human Factors • UX Research • HCI
 
-Welcome. This site contains a few selected case studies that show how I run evaluations, analyze results, and turn findings into actionable design recommendations.
+This site contains selected case studies that show how I run evaluations, analyze results, and translate findings into design recommendations.
 
 ---
 
