@@ -1,9 +1,5 @@
 
-# User Experience Research for Audio-Based Social Media
-
-
 ### The Effects of an Audio-Based Modality on Social Media Experience
-
 
 ---
 
