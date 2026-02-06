@@ -42,7 +42,6 @@ title: ""
   </div>
 </a>
 
-
   <a class="card" href="case-studies/publications/">
     <h3>Publications (Selected)</h3>
     <p>Poster publication + under-review submission with my contributions summarized.</p>
