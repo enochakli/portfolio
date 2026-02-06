@@ -1,4 +1,11 @@
-[← Back to Portfolio](../index.md)
+---
+layout: page
+title: Natural-Language Query Interface for NoSQL (NL → MongoDB)
+permalink: /case-studies/nl-mongodb/
+---
+
+
+[← Back to Portfolio](/portfolio/)
 
 # Natural-Language Query Interface for NoSQL (NL → MongoDB)
 
