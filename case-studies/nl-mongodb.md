@@ -18,9 +18,8 @@ permalink: /case-studies/nl-mongodb/
 **Repository.**
 - GitHub: https://github.com/enochakli/natural-language-queries-to-mongodb
 
-- --
 ## Prototype UI (Find results)
-![Prototype UI showing Find results.]({{ site.baseurl }}/assets/nl-mongodb/ui-find-results.png)
+![Prototype UI showing Find results.](/portfolio/assets/nl-mongodb/ui-find-results.png)
 
 
 ---
@@ -37,8 +36,9 @@ permalink: /case-studies/nl-mongodb/
 **Frontend:** Angular + TypeScript, Angular Material, NgRx. :contentReference[oaicite:14]{index=14}  
 **LLM Provider:** Groq API for high-speed inference. :contentReference[oaicite:15]{index=15}  
 **Testing:** Postman for API testing and validation. :contentReference[oaicite:16]{index=16}  
+
 ## LLM system prompt (query translation)
-![System prompt used to translate natural language into MongoDB JSON.]({{ site.baseurl }}/assets/nl-mongodb/system-prompt.png)
+![System prompt used to translate natural language into MongoDB JSON.](/portfolio/assets/nl-mongodb/system-prompt.png)
 
 
 ---
@@ -54,7 +54,7 @@ permalink: /case-studies/nl-mongodb/
 We designed the system prompt to return **only a valid MongoDB query JSON** so the backend can execute it directly (no extra explanation text). :contentReference[oaicite:19]{index=19}
 
 ## Output stored as structured chat logs
-![Example of stored chat logs showing user request and generated query.]({{ site.baseurl }}/assets/nl-mongodb/mongodb-compass-find-results.png)
+![Example of stored chat logs showing user request and generated query.](/portfolio/assets/nl-mongodb/mongodb-compass-find-results.png)
 
 ---
 
