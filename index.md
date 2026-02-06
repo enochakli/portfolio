@@ -30,11 +30,18 @@ title: ""
     <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
   </a>
 
-  <a class="card" href="case-studies/nl-mongodb/">
-    <h3>Natural-Language Query Interface for NoSQL (NL → MongoDB)</h3>
-    <p>End-to-end prototype translating user questions into MongoDB queries with transparency + recovery features.</p>
-    <span class="meta">Focus: workflow • prototyping • usability</span>
-  </a>
+ <a class="card" href="case-studies/nl-mongodb/">
+  <h3>Natural-Language Query Interface for NoSQL (NL → MongoDB)</h3>
+  <p>End-to-end prototype translating user questions into MongoDB queries with transparency + recovery features.</p>
+  <span class="meta">Focus: workflow • prototyping • usability</span>
+
+  <div class="card-actions">
+    <a class="btn" href="https://github.com/enochakli/natural-language-queries-to-mongodb" target="_blank" rel="noopener" onclick="event.stopPropagation();">
+      GitHub Repo
+    </a>
+  </div>
+</a>
+
 
   <a class="card" href="case-studies/publications/">
     <h3>Publications (Selected)</h3>
