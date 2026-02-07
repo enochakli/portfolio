@@ -66,7 +66,7 @@ title: ""
 
   <div class="card-actions">
     <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">View publications</a>
-    <a class="btn" href="https://scholar.google.com/" target="_blank" rel="noopener">
+    <a class="btn" href="https://https://scholar.google.com/citations?hl=en&user=wByIxDAAAAAJ/" target="_blank" rel="noopener">
       Google Scholar
     </a>
   </div>
