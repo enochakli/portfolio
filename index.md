@@ -13,7 +13,6 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
     <a class="btn" href="#publications">Publications</a>
     <a class="btn" href="/portfolio/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">Resume</a>
   </div>
-</div>
 
 <hr/>
 
@@ -34,6 +33,7 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
     </a>
   </div>
 </div>
+
 
 <div class="card">
   <h3>
