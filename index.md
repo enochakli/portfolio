@@ -12,9 +12,9 @@ title: ""
   <div class="cta">
   <a class="btn primary" href="#case-studies">Case Studies</a>
   <a class="btn" href="#publications">Publications</a>
-  <a class="btn" href="{{ site.baseurl }}/assets/resume/enoch-akli-resume.pdf" target="_blank" rel="noopener">
-    Resume
-  </a>
+  <a class="btn" href="/portfolio/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">
+  Resume
+</a>
 </div>
 
 
