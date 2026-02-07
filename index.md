@@ -10,14 +10,13 @@ title: ""
   </p>
 
   <div class="cta">
-    <a class="btn primary" href="#case-studies">View case studies</a>
-    <a class="btn" href="https://enochakli.github.io/portfolio/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-  Download paper (PDF)
-</a>
-    <a class="btn" href="mailto:aklienoch22@gmail.com">Email</a>
-    <a class="btn" href="https://www.linkedin.com/in/enochakli/" target="_blank" rel="noopener">LinkedIn</a>
-  </div>
+  <a class="btn primary" href="#case-studies">Case Studies</a>
+  <a class="btn" href="#publications">Publications</a>
+  <a class="btn" href="{{ site.baseurl }}/assets/resume/enoch-akli-resume.pdf" target="_blank" rel="noopener">
+    Resume
+  </a>
 </div>
+
 
 <hr/>
 
