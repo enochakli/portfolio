@@ -5,14 +5,18 @@ title: ""
 
 <div class="hero">
   <h1>Enoch Akli</h1>
+
   <p class="tagline">
-I'm a PhD student in Computer Science (Human–Computer Interaction) with a master’s in Human Factors Engineering from Virginia Tech. Experienced in qualitative synthesis (e.g., thematic analysis) and quantitative/statistical analysis.
+    I'm a PhD student in Computer Science (Human–Computer Interaction) with a master’s in Human Factors Engineering from Virginia Tech.
+    Experienced in qualitative synthesis (e.g., thematic analysis) and quantitative/statistical analysis.
+  </p>
 
   <div class="cta">
     <a class="btn primary" href="#case-studies">Case Studies</a>
     <a class="btn" href="#publications">Publications</a>
-    <a class="btn" href="/portfolio/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">Resume</a>
+    <a class="btn" href="{{ site.baseurl }}/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">Resume</a>
   </div>
+</div>
 
 <hr/>
 
@@ -27,13 +31,12 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
   <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">Read case study</a>
     <a class="btn" href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-      project project (PDF)
+      Read paper (PDF)
     </a>
   </div>
 </div>
-
 
 <div class="card">
   <h3>
@@ -44,7 +47,7 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
   <span class="meta">Focus: workflow • prototyping • usability</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/nl-mongodb/"read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/nl-mongodb/">Read case study</a>
     <a class="btn" href="https://github.com/enochakli/natural-language-queries-to-mongodb" target="_blank" rel="noopener">
       GitHub Repo
     </a>
@@ -64,7 +67,7 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
   <span class="meta">ASSETS ’25 • CHI ’26 (under review)</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">view publication</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">View publications</a>
     <a class="btn" href="https://scholar.google.com/citations?hl=en&user=wByIxDAAAAAJ" target="_blank" rel="noopener">
       Google Scholar
     </a>
@@ -72,4 +75,3 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
 </div>
 
 <hr/>
-
