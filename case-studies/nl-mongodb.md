@@ -20,7 +20,7 @@ A schema-agnostic web app that lets users upload datasets (CSV), ask questions i
 MongoDB querying is powerful, but it’s a barrier for people who don’t know NoSQL syntax—especially when datasets vary widely in schema.
 
 **Solution**
-A workflow that translates **natural language → valid MongoDB query JSON → executed results**, with a UI that supports:
+A workflow that translates **natural language → valid MongoDB query JSON → executed results**, with a UI that supports: 
 - dataset upload (CSV)
 - chat-based querying
 - multi-model selection
