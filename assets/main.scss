@@ -3,7 +3,17 @@
 
 @import "minima";
 
-/* ====== Layout polish ====== */ 
+/* ====== Smooth scrolling for in-page nav (Case Studies / Publications) ====== */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: prevents your fixed header (if any) from covering section headings */
+:target {
+  scroll-margin-top: 90px;
+}
+
+/* ====== Layout polish ====== */
 .page-content { padding-top: 24px; }
 .wrapper { max-width: 980px; }
 
