@@ -30,7 +30,7 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
   <div class="card-actions">
     <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">read case study</a>
     <a class="btn" href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-      Read paper (PDF)
+      project project (PDF)
     </a>
   </div>
 </div>
