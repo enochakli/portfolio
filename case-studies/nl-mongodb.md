@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Natural-Language Query Interface for NoSQL (NL → MongoDB)
 permalink: /case-studies/nl-mongodb/
 ---
 
