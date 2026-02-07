@@ -3,4 +3,7 @@ theme: minima
 markdown: kramdown
 permalink: pretty
 
+url: "https://enochakli.github.io"
+baseurl: "/portfolio"
+
 
