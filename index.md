@@ -31,9 +31,9 @@ title: ""
   <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">Read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">read case study</a>
     <a class="btn" href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-      Read paper (PDF)
+    read project report (PDF)
     </a>
   </div>
 </div>
@@ -47,7 +47,7 @@ title: ""
   <span class="meta">Focus: workflow • prototyping • usability</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/nl-mongodb/">Read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/nl-mongodb/">read case study</a>
     <a class="btn" href="https://github.com/enochakli/natural-language-queries-to-mongodb" target="_blank" rel="noopener">
       GitHub Repo
     </a>
@@ -67,7 +67,7 @@ title: ""
   <span class="meta">ASSETS ’25 • CHI ’26 (under review)</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">View publications</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">view publications</a>
     <a class="btn" href="https://scholar.google.com/citations?hl=en&user=wByIxDAAAAAJ" target="_blank" rel="noopener">
       Google Scholar
     </a>
