@@ -28,7 +28,7 @@ what design requirements would make an audio-first feed viable.
    
 To answer this, we ran a within-subject lab study (n=12) comparing visual-only, audio-only, and hybrid (audio + visual) conditions, using time-on-task and standardized/self-report measures (including STAI and post-task usability ratings) to quantify tradeoffs across modalities.
 
-**My role.** Study execution support, materials preparation, results synthesis, and translating findings into design implications and next-step recommendations.
+**My contributions.** Study execution support, materials preparation, results synthesis, and translating findings into design implications and next-step recommendations.
 
 **Participants.** 12 college students  
 **Study design.** Within-subject, counterbalanced (Visual / Audio / Hybrid)
@@ -48,9 +48,9 @@ To answer this, we ran a within-subject lab study (n=12) comparing visual-only, 
 ---
 
 ## Key Findings
-1. **Efficiency:** Elapsed time differed significantly across conditions (**visual fastest**, **audio slowest**, **hybrid in-between**).
+1. **Efficiency:** Elapsed time differed significantly across conditions (visual fastest, audio slower, hybrid in-between).
 2. **Anxiety (STAI):** No statistically significant differences observed across modalities.
-3. **Usability:** The only post-questionnaire item with a significant difference was **ease of navigation** (visual rated higher than audio).
+3. **Usability:** The only post-questionnaire item with a significant difference wasease of navigatio (visual rated higher than audio).
 4. **Preference:** Participants generally preferred visual; audio was viewed as situationally useful (e.g., multitasking/accessibility).
 
 ### Results snapshots
@@ -67,8 +67,8 @@ To answer this, we ran a within-subject lab study (n=12) comparing visual-only, 
 ---
 
 ## Design Implications (Next iteration)
-- Add **playback speed** and **summary vs. full narration** controls to support different attention contexts.
-- Improve audio navigation patterns (**skip/rewind/quick-jump**) to reduce friction relative to visual scanning.
+- Add playback spee andsummary vs. full narratio controls to support different attention contexts.
+- Improve audio navigation patterns (skip/rewind/quick-jump) to reduce friction relative to visual scanning.
 - Move to a higher-fidelity prototype to reduce novelty effects and evaluate more realistic behavior.
 
 ---
