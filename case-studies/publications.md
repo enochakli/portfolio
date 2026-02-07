@@ -18,7 +18,7 @@ A selection of peer-reviewed and submitted work, with my role highlighted for ea
 
 **Published at:** ACM ASSETS 2025 (Poster)  
 <div class="card-actions">
-  <a class="btn" href="https://doi.org/10.1145/3663547.3759697" target="_blank" rel="noopener">View publication (DOI)</a>
+  <a class="btn" href="https://doi.org/10.1145/3663547.3759697" target="_blank" rel="noopener">view publication DOI</a>
 </div>
 
 **My contribution**
