@@ -57,18 +57,19 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
 
 <div class="card">
   <h3>
-    <a href="{{ site.baseurl }}/case-studies/publications/">Publications (Selected)</a>
+    <a href="{{ site.baseurl }}/case-studies/publications/">Publications</a>
   </h3>
 
-  <p>Poster publication + under-review submission with my contributions summarized.</p>
+  <p>Poster publication and under-review submission with my contributions summarized.</p>
   <span class="meta">ASSETS ’25 • CHI ’26 (under review)</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">View publications</a>
-    <a class="btn" href="https://https://scholar.google.com/citations?hl=en&user=wByIxDAAAAAJ/" target="_blank" rel="noopener">
+    <a class="btn" href="{{ site.baseurl }}/case-studies/publications/">view publication</a>
+    <a class="btn" href="https://scholar.google.com/citations?hl=en&user=wByIxDAAAAAJ" target="_blank" rel="noopener">
       Google Scholar
     </a>
   </div>
 </div>
 
 <hr/>
+
