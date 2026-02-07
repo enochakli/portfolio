@@ -1,6 +1,5 @@
 ---
 layout: page
-title: User Experience Research for Audio-Based Social Media
 permalink: /case-studies/audio-social-media/
 ---
 
