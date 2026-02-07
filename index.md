@@ -32,10 +32,10 @@ title: ""
   <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">Read case study</a>
-    <a class="btn" href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-      Read paper (PDF)
-    </a>
+    <a href="{{ site.baseurl }}/case-studies/audio-social-media/">Read case study</a>
+    <a href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
+  Read paper (PDF)
+</a>
   </div>
 </div>
 
