@@ -9,7 +9,7 @@ title: ""
 I'm a PhD student in Computer Science (Human–Computer Interaction) with a master’s in Human Factors Engineering from Virginia Tech. Experienced in qualitative synthesis (e.g., thematic analysis) and quantitative/statistical analysis.
 
   <div class="cta">
-    <a class="btn primary" href="#research-projects">Research Projects</a>
+    <a class="btn primary" href="#case-studies">Case Studies</a>
     <a class="btn" href="#publications">Publications</a>
     <a class="btn" href="/portfolio/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">Resume</a>
   </div>
@@ -17,18 +17,18 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
 
 <hr/>
 
-<h2 id="case-studies">Research Projects</h2>
+<h2 id="case-studies">Case Studies</h2>
 
 <div class="card">
   <h3>
-    <a href="{{ site.baseurl }}/research-projects/audio-social-media/">User Experience Research for Audio-Based Social Media</a>
+    <a href="{{ site.baseurl }}/case-studies/audio-social-media/">User Experience Research for Audio-Based Social Media</a>
   </h3>
 
   <p>Within-subject UX/HF evaluation comparing visual-only, audio-only, and hybrid modalities.</p>
   <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/research-projects/audio-social-media/">read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">read case study</a>
     <a class="btn" href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
       Read paper (PDF)
     </a>
@@ -37,14 +37,14 @@ I'm a PhD student in Computer Science (Human–Computer Interaction) with a mast
 
 <div class="card">
   <h3>
-    <a href="{{ site.baseurl }}/research-projects/nl-mongodb/">Natural-Language Query Interface for NoSQL (NL → MongoDB)</a>
+    <a href="{{ site.baseurl }}/case-studies/nl-mongodb/">Natural-Language Query Interface for NoSQL (NL → MongoDB)</a>
   </h3>
 
   <p>End-to-end prototype translating user questions into MongoDB queries with transparency + recovery features.</p>
   <span class="meta">Focus: workflow • prototyping • usability</span>
 
   <div class="card-actions">
-    <a class="btn" href="{{ site.baseurl }}/research-projects/nl-mongodb/"read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/nl-mongodb/"read case study</a>
     <a class="btn" href="https://github.com/enochakli/natural-language-queries-to-mongodb" target="_blank" rel="noopener">
       GitHub Repo
     </a>
