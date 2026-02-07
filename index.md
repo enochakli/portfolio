@@ -6,8 +6,7 @@ title: ""
 <div class="hero">
   <h1>Enoch Akli</h1>
   <p class="tagline">
-A PhD student in Computer Science (Human–Computer Interaction) with a master’s in Human Factors Engineering from Virginia Tech. I am actively involved in needs assessment and study design to moderated usability testing and mixed-method analysis. Experienced in qualitative synthesis (e.g., thematic analysis) and supporting quantitative/statistical analysis to translate findings into clear design recommendations.
-  </p>
+I'm a PhD student in Computer Science (Human–Computer Interaction) with a master’s in Human Factors Engineering from Virginia Tech. Experienced in qualitative synthesis (e.g., thematic analysis) and quantitative/statistical analysis.
 
   <div class="cta">
     <a class="btn primary" href="#case-studies">Case Studies</a>
