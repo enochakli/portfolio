@@ -10,13 +10,11 @@ title: ""
   </p>
 
   <div class="cta">
-  <a class="btn primary" href="#case-studies">Case Studies</a>
-  <a class="btn" href="#publications">Publications</a>
-  <a class="btn" href="/portfolio/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">
-  Resume
-</a>
+    <a class="btn primary" href="#case-studies">Case Studies</a>
+    <a class="btn" href="#publications">Publications</a>
+    <a class="btn" href="/portfolio/assets/resume/Enoch_Akli_Resume.pdf" target="_blank" rel="noopener">Resume</a>
+  </div>
 </div>
-
 
 <hr/>
 
@@ -31,17 +29,14 @@ title: ""
   <span class="meta">Methods: usability testing • STAI • ANOVA/Tukey</span>
 
   <div class="card-actions">
-    <a href="{{ site.baseurl }}/case-studies/audio-social-media/">Read case study</a>
-    <a href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
-  Read paper (PDF)
-</a>
+    <a class="btn" href="{{ site.baseurl }}/case-studies/audio-social-media/">Read case study</a>
+    <a class="btn" href="{{ site.baseurl }}/assets/audio-social/audio-social-media-paper.pdf" target="_blank" rel="noopener">
+      Read paper (PDF)
+    </a>
   </div>
 </div>
 
-
-
-
- <div class="card">
+<div class="card">
   <h3>
     <a href="{{ site.baseurl }}/case-studies/nl-mongodb/">Natural-Language Query Interface for NoSQL (NL → MongoDB)</a>
   </h3>
@@ -57,9 +52,9 @@ title: ""
   </div>
 </div>
 
+<hr/>
 
-
-
+<h2 id="publications">Publications</h2>
 
 <div class="card">
   <h3>
@@ -76,7 +71,5 @@ title: ""
     </a>
   </div>
 </div>
-
-
 
 <hr/>
