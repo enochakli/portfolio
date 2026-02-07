@@ -37,4 +37,3 @@ Led user-study sessions and moderated participant workflows; coded and synthesiz
 **My contributions**
  Led user studies; collected post-task usability and comprehension measures; supported statistical analysis and interpretation of results.
 
-**Status:**
